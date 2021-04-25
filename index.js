@@ -12,7 +12,7 @@ let multiply = num1*num2;
 console.log(multiply);
 
 // let random =
-let mod = num3 % num4;
+
 let num3 = 14;
 let num4 =5;
 console.log(mod);
