@@ -15,7 +15,7 @@ let random=1;
 if (random) {
 console.log(Math.random());
 }else{
-  console.log();
+  console.log("");
 }
 
 
