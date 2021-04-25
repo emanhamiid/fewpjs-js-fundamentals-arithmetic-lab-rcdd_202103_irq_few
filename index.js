@@ -17,5 +17,5 @@ let num3 = 14;
 let num4 =5;
 let mod = num3 % num4;
 console.log(mod);
-let max;max(20,17,4,3,2,1);
+let max = max(20,17,4,3,2,1);
 console.log(max);
