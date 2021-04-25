@@ -14,7 +14,9 @@ console.log(multiply);
 let random=1;
 if (random) {
 console.log(Math.random());
-}else{}
+}else{
+  console.log();
+}
 
 
 console.log(getRandomInt(1));
