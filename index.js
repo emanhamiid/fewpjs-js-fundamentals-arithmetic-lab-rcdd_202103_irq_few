@@ -12,7 +12,9 @@ let multiply = num1*num2;
 console.log(multiply);
 
 let random = 0;
-
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
 
 let num3 = 14;
 let num4 =5;
