@@ -11,7 +11,7 @@ let num2 = 2;
 let multiply = num1*num2;
 console.log(multiply);
 
-let random>0;
+let random>;
 console.log(Math.random());
 
 console.log(getRandomInt(1));
