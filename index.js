@@ -12,7 +12,7 @@ let multiply = num1*num2;
 console.log(multiply);
 
 let random;
-if (true) {
+if () {
 
 }
 console.log(Math.random());
