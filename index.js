@@ -11,7 +11,7 @@ let num2 = 2;
 let multiply = num1*num2;
 console.log(multiply);
 
-// let random =
+let random = 0;
 
 let num3 = 14;
 let num4 =5;
