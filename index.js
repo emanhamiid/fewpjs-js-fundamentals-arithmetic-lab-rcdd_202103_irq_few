@@ -15,7 +15,7 @@ let random;
 if (random) {
 console.log(Math.random());
 }
-console.log(Math.random());
+
 
 console.log(getRandomInt(1));
 let num3 = 14;
