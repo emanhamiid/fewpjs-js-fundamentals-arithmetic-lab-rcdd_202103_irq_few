@@ -19,7 +19,7 @@ console.log(Math.random());
 }
 
 
-console.log(getRandomInt(1));
+
 let num3 = 14;
 let num4 =5;
 let mod = num3 % num4;
