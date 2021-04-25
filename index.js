@@ -13,6 +13,7 @@ console.log(multiply);
 
 let random;
 
+
 console.log(getRandomInt(1));
 let num3 = 14;
 let num4 =5;
