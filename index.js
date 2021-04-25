@@ -12,10 +12,7 @@ let multiply = num1*num2;
 console.log(multiply);
 
 
-function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
-}
-console.log(getRandomInt(1));
+
 let num3 = 14;
 let num4 =5;
 let mod = num3 % num4;
